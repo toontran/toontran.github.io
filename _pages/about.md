@@ -11,7 +11,7 @@ redirect_from:
 My name is Son-Tung Tran (pronounced /sən to͞on tran/). I double major in Math and Computer Science at Bucknell University. I'm fortunate to be advised by the wonderful Professor [Joshua Stough](http://eg.bucknell.edu/~jvs008/research/research.html) (Bucknell University) and [Dr. Haggerty](https://www.geisinger.edu/research/research-at-geisinger/find-an-investigator/2018/04/04/13/27/christopher-m-haggerty) (Geisinger Health) in my previous research on automatic echocardiography segmentation. 
 
 [[CV](https://drive.google.com/file/d/1KgECLYFCSyqCcmen37JmAaf-p33ZHA78/view?usp=sharing)] [[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=plU7WMQAAAAJ)] [[Github](https://github.com/)]<br>
-Email: *tst008@bucknell.edu*
+Email: *tst008 [at] bucknell [dot] edu*
 
 
 
