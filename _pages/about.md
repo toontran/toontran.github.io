@@ -36,7 +36,7 @@ Conference Papers
 ---
 **Bayesian Optimization of 2D Echocardiography** <br>
 **Son-Tung Tran**, Joshua V. Stough, Xiaoyan Zhang, Christopher M. Haggerty <br>
-In Proceedings of the 32nd International Conference on Machine Learning (**ISBI 21**) <br>
+In Proceedings of the IEEE International Symposium on Biomedical Imaging (**ISBI '21**) <br>
 [[arxiv]()] [[poster](http://eg.bucknell.edu/~jvs008/research/cardiac/ISBI21/tranISBI21_poster.pdf)] [[video](https://www.youtube.com/watch?v=l6G8El8_X4o)]
 
 Technical Reports and Preprints

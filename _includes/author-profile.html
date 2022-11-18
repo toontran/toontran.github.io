@@ -117,7 +117,10 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
+  <!-- ScheduleOnce button START -->
+  <button id="SOIBTN_TungTran" class="btn btn--info" style="margin-top: 1em;" onclick='var soqueryparam = "https://go.oncehub.com/TungTran"; if (window.location.href.indexOf("?") > 0) {   soqueryparam += "&"+window.location.href.slice(window.location.href.indexOf("?") + 1);}window.open(soqueryparam)' >Meet with me</button>
+  <!-- ScheduleOnce button END -->
 </div>
