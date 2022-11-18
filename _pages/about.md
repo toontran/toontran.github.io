@@ -31,15 +31,16 @@ In another previous research, I looked into **automatic echocardiography segment
 Publications
 ===
 
-Conference Papers
----
+*Conference Papers*
+
 **Bayesian Optimization of 2D Echocardiography** <br>
 **Son-Tung Tran**, Joshua V. Stough, Xiaoyan Zhang, Christopher M. Haggerty <br>
 In Proceedings of the IEEE International Symposium on Biomedical Imaging (**ISBI '21**) <br>
 [[arxiv]()] [[poster](http://eg.bucknell.edu/~jvs008/research/cardiac/ISBI21/tranISBI21_poster.pdf)] [[video](https://www.youtube.com/watch?v=l6G8El8_X4o)]
+<br><br>
 
-Technical Reports and Preprints
----
+*Technical Reports and Preprints*
+
 **Symmetric Diffeomorphic Registration as Segmentation Post-processing Method** <br>
 **Son-Tung Tran**, Joshua V. Stough <br>
 Technical Report <br>
@@ -50,5 +51,5 @@ Miscellaneous
 ===
 
 - I enjoy reading comics, fantasy and sci-fi books. I also play badminton casually when I get the chance.
-- If you want to discuss or study epistemology/philosphy of science, do hit me up!
+- If you want to discuss or study epistemology/philosphy of science, do hit me up.
 - Please feel free to [schedule a meeting](https://go.oncehub.com/TungTran) or send me an email if you have any question about anything, or if you just want to have a chat!
