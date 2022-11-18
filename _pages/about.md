@@ -23,7 +23,7 @@ My current interest lies in **machine learning**, **optimization** and **deep le
 
 Specifically, I'm looking at **theoretical deep learning** frameworks such as [Tensor Programs](https://www.microsoft.com/en-us/research/people/gregyang/), [Neural Tangent Kernels](https://www.inference.vc/neural-tangent-kernels-some-intuition-for-kernel-gradient-descent/), or data-dependent two-layer networks to approach *memorization* in neural networks. Memorization is referred to here as both tendency to memorize noise (overfit) and statistical features (causing lower performance on distribution shift).   
 
-Previously, I did research on **language models for theorem proving**. Specifically, I examined the ability of the neural network GPT-2 to incrementally learn to prove math statements from its own mistakes in Lean, an Interactive Theorem Prover for doing math on computers. Finding my model does not respond well to distribution shift, I turned towards more fundamental aspect of deep learning. 
+Previously, I did research on **language models for theorem proving**. Specifically, I examined the ability of the neural network GPT-2 to incrementally learn to prove math statements from its own mistakes in Lean, an Interactive Theorem Prover for doing math on computers. Finding my model does not respond well to distribution shift, I decided to dive into the fundamentals of deep learning. 
 
 In another previous research, I looked into **automatic echocardiography segmentation** using CNNs. My model also exhibit memorization, making it hard to generalize across different datasets.
 
