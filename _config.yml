@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Son-Tung Tran"
-title_separator          : "---"
+title_separator          : ""
 name                     : &name "Son-Tung Tran"
 description              : &description "Personal website of Son-Tung Tran (Tung Tran)"
 url                      : https://sontungtran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-M3PQQDCEV2
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Son-Tung Tran"
   avatar           : "my_img.jpg"
-  bio              : "Math and Computer Science. Student Researcher"
+  bio              : "He/him. Student Researcher."
   location         : 
   employer         :
   pubmed           : 
