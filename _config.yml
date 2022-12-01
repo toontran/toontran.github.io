@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Son-Tung Tran"
+title                    : "Toon Tran"
 title_separator          : ""
-name                     : &name "Son-Tung Tran"
-description              : &description "Personal website of Son-Tung Tran (Tung Tran)"
-url                      : https://sontungtran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Toon Tran"
+description              : &description "Personal website of Toon Tran (Tung Tran)"
+url                      : https://toontran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sontungtran/sontungtran.github.io"
+repository               : "toontran/toontran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Son-Tung Tran"
+  name             : "Toon Tran"
   avatar           : "my_img.jpg"
   bio              : "He/him. Student Researcher."
   location         : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sontungtran"
+  github           : "toontran"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :  
   steam            :
   tumblr           :
-  twitter          : "sontung_tran_"
+  twitter          : "toon_tran_"
   vine             :
   weibo            :
   xing             :

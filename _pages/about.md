@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Son-Tung Tran (pronounced /sən to͞on tran/). I double major in Math and Computer Science at Bucknell University. 
+My name is Toon Tran (Tung Tran). I double major in Math and Computer Science at Bucknell University. 
 
 I'm fortunate to be advised by the wonderful Professor [Joshua Stough](http://eg.bucknell.edu/~jvs008/research/research.html) (Bucknell University) and [Dr. Haggerty](https://www.geisinger.edu/research/research-at-geisinger/find-an-investigator/2018/04/04/13/27/christopher-m-haggerty) (Geisinger Health) in my previous research on automatic echocardiography segmentation. 
 
@@ -43,7 +43,7 @@ Publications
 *Conference Papers*
 
 **Bayesian Optimization of 2D Echocardiography Segmentation** <br>
-**Son-Tung Tran**, Joshua V. Stough, Xiaoyan Zhang, Christopher M. Haggerty <br>
+**Toon Tran**, Joshua V. Stough, Xiaoyan Zhang, Christopher M. Haggerty <br>
 In Proceedings of the IEEE International Symposium on Biomedical Imaging (**ISBI '21**) <br>
 [[arxiv](https://arxiv.org/abs/2211.09888)] [[poster](http://eg.bucknell.edu/~jvs008/research/cardiac/ISBI21/tranISBI21_poster.pdf)] [[video](https://www.youtube.com/watch?v=l6G8El8_X4o)]
 <br><br>
@@ -51,7 +51,7 @@ In Proceedings of the IEEE International Symposium on Biomedical Imaging (**ISBI
 *Technical Reports and Preprints*
 
 **Symmetric Diffeomorphic Registration as Segmentation Post-processing Method** <br>
-**Son-Tung Tran**, Joshua V. Stough <br>
+**Toon Tran**, Joshua V. Stough <br>
 Technical Report <br>
 [[arxiv]()]
 
@@ -61,4 +61,4 @@ Miscellaneous
 
 - I enjoy reading comics, fantasy and sci-fi books. I also play badminton casually when I get the chance.
 - If you want to discuss or study epistemology/philosphy of science, do hit me up.
-- Please feel free to [schedule a meeting](https://go.oncehub.com/TungTran) or send me an email if you have any question about anything, or if you just want to have a chat!
+- Please feel free to [schedule a meeting](https://go.oncehub.com/ToonTran) or send me an email if you have any question about anything, or if you just want to have a chat!
