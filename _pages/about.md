@@ -12,7 +12,7 @@ My name is Toon Tran (Tung Tran). I double major in Math and Computer Science at
 
 I'm fortunate to be advised by the wonderful Professor [Joshua Stough](http://eg.bucknell.edu/~jvs008/research/research.html) (Bucknell University) and [Dr. Haggerty](https://www.geisinger.edu/research/research-at-geisinger/find-an-investigator/2018/04/04/13/27/christopher-m-haggerty) (Geisinger Health) in my previous research on automatic echocardiography segmentation. 
 
-[[CV](https://drive.google.com/file/d/1M2LJpfzJuFoouyfJtw_P6ePrNk_n-4vw/view?usp=sharing)] [[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=plU7WMQAAAAJ)] [[Github](https://github.com/)]<br>
+[[CV](http://toontran.github.io/files/Toon_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=plU7WMQAAAAJ)] [[Github](https://github.com/toontran)]<br>
 Email: *tst008 [at] bucknell [dot] edu*
 
 <!-- Education
@@ -53,7 +53,7 @@ In Proceedings of the IEEE International Symposium on Biomedical Imaging (**ISBI
 **Symmetric Diffeomorphic Registration as Segmentation Post-processing Method** <br>
 **Toon Tran**, Joshua V. Stough <br>
 Technical Report <br>
-[[arxiv]()]
+[[pdf](http://toontran.github.io/files/SDR_as_segmentation_post_processing_method.pdf)]
 
 
 Miscellaneous
