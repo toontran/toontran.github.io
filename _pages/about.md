@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Toon Tran (Tung Tran). I double major in Math and Computer Science at Bucknell University. 
+My name is Toon Tran (yes as in car-TOON) or Tung Tran. I double major in Math and Computer Science at Bucknell University. 
 
 I'm fortunate to be advised by the wonderful Professor [Joshua Stough](http://eg.bucknell.edu/~jvs008/research/research.html) (Bucknell University) and [Dr. Haggerty](https://www.geisinger.edu/research/research-at-geisinger/find-an-investigator/2018/04/04/13/27/christopher-m-haggerty) (Geisinger Health) in my previous research on automatic echocardiography segmentation. 
 
